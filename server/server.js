@@ -24,6 +24,7 @@ const allowedOrigins = [
   "https://hansithacreations.liveblog365.com",
   "https://github.com/krishnakanth2109/hansitha-creations",
   "https://hansitha-creations-1.onrender.com",
+  "https://hansitha-lastone.onrender.com"
 ];
 
 // ✅ Socket.IO CORS Config
