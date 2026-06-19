@@ -1,0 +1,3 @@
+name,price,stock,category,description,featured,imageUrl
+Cotton Saree,1200,10,Cotton,Lightweight saree,true,https://example.com/image1.jpg
+Silk Saree,2500,5,Silk,Festive wear saree,false,https://example.com/image2.jpg
